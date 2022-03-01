@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the desperate design of the malignants, for the betraying of Monmouth towne and castle: with the particular manner of the discovery thereof by Sir Trevor Williams, and the meanes used to prevent it by Col. Morgan and Lieut. Col. Kerle. And divers malignant families thereupon by proclamation put out of the said town. Also, how Lieut. col. Kerle fell into the enemies quarters neere Hereford, and took divers prisoners, horse, and armes. Likewise, a copy of Col. Sandys letter of the manner of taking Shelford house, 140. of the enemy put to the sword, the governour wounded, and 30 officers and common prisoners taken. Published by speciall command.</title>
+            <author>C. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97116</idno>
+            <idno type="STC">Wing W7</idno>
+            <idno type="STC">Thomason E308_19</idno>
+            <idno type="STC">ESTC R200388</idno>
+            <idno type="EEBO-CITATION">99861167</idno>
+            <idno type="PROQUEST">99861167</idno>
+            <idno type="VID">158836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158836)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E308[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the desperate design of the malignants, for the betraying of Monmouth towne and castle: with the particular manner of the discovery thereof by Sir Trevor Williams, and the meanes used to prevent it by Col. Morgan and Lieut. Col. Kerle. And divers malignant families thereupon by proclamation put out of the said town. Also, how Lieut. col. Kerle fell into the enemies quarters neere Hereford, and took divers prisoners, horse, and armes. Likewise, a copy of Col. Sandys letter of the manner of taking Shelford house, 140. of the enemy put to the sword, the governour wounded, and 30 officers and common prisoners taken. Published by speciall command.</title>
+                  <author>C. W.</author>
+                  <author>Sandys, Richard.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates, at the signe of the Maiden-head on Snow-hill, Holborn conduit,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two letters, the first of which is signed: C.W.; the second of which is signed: Richard Sandys.</note>
+                  <note>Annotation on Thomason copy: ""Nouemb 7th" [?; MS. ink has bled, obscuring annotation; bound after an item dated November 7th. Listed in Thomason Catalogue under November 4th].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Monmouth (England) --  History --  Early works to 1800.</term>
+               <term>Hereford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158836:1" rendition="simple:additions"/>
+            <p>A FULL RELATION OF THE Deſperate Deſigne Of the Malignants, for the betraying of <hi>MONMO<g ref="char:V">Ʋ</g>TH</hi> Towne and Caſtle:</p>
+            <p>With the particular manner of the Diſcovery thereof by Sir <hi>Trevor Williams,</hi> and the meanes uſed to prevent it by Col. <hi>Morgen</hi> and Lieut. Col. <hi>Kerle.</hi> And divers malignant families thereupon by Proclamation put out of the ſaid Town.</p>
+            <p>Alſo, how Lieut. col. <hi>Kerle</hi> fell into the enemies Quarters neere <hi>Hereford,</hi> and tooke divers Priſoners Horſe, and Armes.</p>
+            <p>LIKEWISE, A copy of Col. <hi>Sandys</hi> Letter of the manner of taking Shelford houſe, 140. of the enemy put to the Sword, the Governour wounded, and 30 Officers and common priſoners taken.</p>
+            <p>Publiſhed by ſpeciall command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Bates,</hi> at the ſigne of the Maiden-head on Snow-hill, Holborn conduit, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158836:2"/>
+            <pb n="1" facs="tcp:158836:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your deſire I ſhall ac<g ref="char:EOLhyphen"/>quaint you with the paſſages in theſe parts, Lieut. Col. <hi>Kerle</hi> being com<g ref="char:EOLhyphen"/>manded from <hi>Chepſtow</hi> by Col. <hi>Mor<g ref="char:EOLhyphen"/>gan</hi> to goe with a party of horſe into <hi>Monmouth<g ref="char:EOLhyphen"/>ſhire</hi> to fall upon a party of 800 horſe of <hi>Waſh<g ref="char:EOLhyphen"/>ingtons,</hi> which hee purſued three daies and three nights, untill ſuch time as he drove them over the River ſome fix miles above <hi>Hereford.</hi> Whereupon he returned to <hi>Chepſtow</hi> and deſired the Gover<g ref="char:EOLhyphen"/>nour of <hi>Glouceſter</hi> and Sir <hi>Trevor Williams</hi> that they would draw all their forces together out of <hi>Chepſtow,</hi> and the county of <hi>Monntouth,</hi> before <hi>Monmouth,</hi> and hee would engage his life, within three daies the Towne and Caſtle ſhould be ſur<g ref="char:EOLhyphen"/>rendred. Upon the 20 paſt they drew before it with horſe and foot; a forlorne hope being drawn out of 600 Musketiers was commanded by Lieut. col. <hi>Kerle.</hi> The enemy ſeeing him come
+<pb n="2" facs="tcp:158836:3"/>ſo ſtrong upon them, and knowing that he com<g ref="char:EOLhyphen"/>manded the party left the Towne and fled into the Caſtle; whereupon the governour of <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> and Sir <hi>Trevor Williams</hi> came inſtantly into the Town, called a councell of War, and did ad<g ref="char:EOLhyphen"/>viſe with the reſt of their Officers whether they ſhould fall upon the Caſtle inſtantly or not; but taking into conſideration that they had myners in the Forreſt ſent for them, put them to worke the ſame day, and on Thurſday following they had made all things ready. The enemy within the Caſtle finding the mynors had made the mynes ready to ſpring, called a councell of War within, themſelves the 23 received intelligence that the enemy had ſix mynes ready to be ſprung and thought good upon good quarter to deliver up the caſtle, which they did on Friday, and on Saturday morning the Governour marched to <hi>Glouceſter</hi> with all his foot, leaving onely 100 in the Caſtle under the command of Capt. <hi>Foſter,</hi> and the Towne to Sir <hi>Trevor Williams</hi> charge, the countrey aſſiſting him in that ſervice. The Governour had no ſooner gone for <hi>Glouceſter,</hi> but the countrey (being inſtigated by ſome ma<g ref="char:EOLhyphen"/>lignants in the Towne) began to draw home<g ref="char:EOLhyphen"/>wards, and told Sir <hi>Trevor Williams</hi> plainly that
+<pb n="3" facs="tcp:158836:3"/>they did not come to keepe garriſons, and they departed the ſame night every man to his owne home, leaving the Towne deſtitute of ſtrength. Whereupon Sir <hi>Trevor Williams</hi> deſired Captain <hi>Foſter</hi> he might have the aſſiſtance of his men to keepe the Towne; but he having the charge of the caſtle thought it not his duty to forſake that, but reſolved to keep it to the utmoſt hazzard of his life and fortune. Thereupon Sir <hi>Trevor Wil<g ref="char:EOLhyphen"/>lians</hi> ſeeing the danger he was in (<hi>Ragland caſtle</hi> being within ſeven miles of it) and the malig<g ref="char:EOLhyphen"/>nants gathering together, and giving out words that the Towne would be their owne by mor<g ref="char:EOLhyphen"/>ning ſent a poſt to the Governour of <hi>Glouceſter</hi> to acquaint him, and alſo to the Foreſt of <hi>Deane,</hi> for preſent ſupply, whereupon Lieut. col. <hi>Kerle</hi> and Cap. <hi>Gainsford</hi> came at 12 a clock that night with 200 men, and before 12 a clock next day with 500 more, who guarded the Towne till the Governour had ſent 200 commanded men of Glouceſter for the keeping thereof. The garri<g ref="char:EOLhyphen"/>ſon of Monmouth being put into a poſture of defence and the malignants deſigne prevented Proclamation was made by Sir <hi>Trevor Williams</hi> and Lieut. col. <hi>Kerle,</hi> that upon Munday follow<g ref="char:EOLhyphen"/>ing thoſe people that were ſuſpected to be a<g ref="char:EOLhyphen"/>gainſt
+<pb n="4" facs="tcp:158836:4"/>the Parliament ſhould depart the Towne, upon pain of death, whereupon divers families of malignants were put out. The Town thus ſecu<g ref="char:EOLhyphen"/>red Lieut. col. <hi>Kerle</hi> the ſame day marched with his Troop towards <hi>Hereford,</hi> and that night fell upon the enemies quarters within two miles of <hi>Hereford,</hi> tooke 8 priſoners and ten horſe, with<g ref="char:EOLhyphen"/>out the loſſe of a man. And the Governour of <hi>Gloucester</hi> being commanded for <hi>Cheſter</hi> with his horſe appointed the ſaid Lieut. col. <hi>Kerle</hi> to be an aſſiſtant to Sir <hi>Trevor Williams,</hi> for the better ſecurity and ſafety thereof. And thus this deſpe<g ref="char:EOLhyphen"/>rate deſigne of the malignants, who would again have enſlaved this Towne and countrey to the malice of the enemy, to the undoing of many wel-affected perſons who had declared them<g ref="char:EOLhyphen"/>ſelves for the Parliament, was by Divine provi<g ref="char:EOLhyphen"/>dence diſcovered and prevented. Let God have the glory of all. So reſts,</p>
+            <closer>
+               <signed>Yours aſſured, <hi>C. W.</hi>
+               </signed>
+               <dateline>Monmouth, <date>Novem. 4. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:158836:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Suppoſe you have a parti<g ref="char:EOLhyphen"/>cular relation of this daies ſervice, but thus much from your friend: Wee aſſaulted Shelford houſe this day a<g ref="char:EOLhyphen"/>bout foure of the clocke, it was defen<g ref="char:EOLhyphen"/>ded galiantly, and diſputed halfe an houre at Swords poynt after wee got to the top of the works, but our men growing faint, I diſmounted, and be<g ref="char:EOLhyphen"/>ing aſsiſted by ſome Troopers that diſmounted with mee, ſtormed, and was one of the firſt that entred in. We kild about 140. and gave quarter
+<pb n="6" facs="tcp:158836:5"/>to about 30. the Governour (ſonne to the Earle of Cheſterfield) received many wounds, and I believe ſome mortall, but I comming in gave him a longer time to repent (for he is not likely to live,) Wee are to morrow for VVorton, I truſt God will goe along with us. The King is yet in Newarke, and cannot probably e<g ref="char:EOLhyphen"/>ſcape. The two Princes with their party about Belvoyr, &amp; keep guards againſt Newarke, and doe hoſtile acts on the Kings party</p>
+            <closer>
+               <dateline>
+                  <date>Novemb. 3. 9 at night.</date>
+               </dateline>
+               <signed>Your ſervant, <hi>Richard Sandys.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
